@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ca448aaa-f2f2-4399-b147-e961f8f2d3b6",
+    "Name": "UsrTestProcess",
+    "ModifiedOnUtc": "\/Date(1773767138000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Test Process",
+    "DependsOn": []
+  }
+}
