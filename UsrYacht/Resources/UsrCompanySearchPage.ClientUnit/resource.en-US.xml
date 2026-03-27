@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Company Search page" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Specify company Search data" />
+			<Item Name="Parameters.0e0d25a2-de86-741d-ae9a-6104cc59c332.Caption" Value="CompanyName" />
+			<Item Name="Parameters.69542535-6ae4-345a-f218-42f48cdd73a8.Caption" Value="Country Code (2 letters)" />
+		</Items>
+	</Group>
+</Resources>
